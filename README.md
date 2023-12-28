@@ -36,6 +36,3 @@ The `AllKeys` class takes a ciphertext message from standard input and outputs a
 
 ## Contributing
 Contributions to enhance functionality or improve the codebase are welcome. Please adhere to clean code practices and provide comments where necessary.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
